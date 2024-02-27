@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @yusufovas JavaScript/Typescript developer
-- 📫 telegram: @yusufovass
+
