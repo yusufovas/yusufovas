@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on building fullstack application using Nestjs, Mongodb, React<br>👯‍♀️ I'm looking to collaborate on outsource projects, freelancing<br>🌱 I'm currently learning Netsjs advanced<br>
+🔭 I'm currently working on building fullstack application using Nestjs, Mongodb, React<br>👯‍♀️ I'm looking to collaborate on outsource projects, freelancing<br>🌱 I'm currently learning Java👩🏻‍💻<br>
 
 
 ## 🌐 Socials:
